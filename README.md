@@ -208,8 +208,8 @@ Gestión de clientes · productos · pedidos · ventas · inventario · persiste
 
 ## 📫 Contacto
 
-- **Correo:** TU_CORREO
-- **LinkedIn:** TU_LINKEDIN
+- **Correo:** absalon15garcia@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/luis-garcia-absalon-147a98374?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - **GitHub:** https://github.com/LuisGarciaAbsalon
 - **Portafolio:** LINK_PORTAFOLIO
 
