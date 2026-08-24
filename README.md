@@ -39,7 +39,7 @@ Me interesa desarrollarme como **Desarrollador Java Jr / Backend Jr**, aportando
 </td>
 <td width="35%" align="center">
 
-<img src="./TU_FOTO.jpg" alt="Foto de Luis García" width="220" style="border-radius: 12px;" />
+<img src="./archivo_000000007e1071f68781bcebdca24338.png" alt="Foto de Luis García" width="220">
 
 </td>
 </tr>
