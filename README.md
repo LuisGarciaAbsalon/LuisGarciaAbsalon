@@ -1,66 +1,99 @@
-# Hola, soy Luis García 👋
+<h1 align="center">Hola, soy Luis García 👋</h1>
+<h3 align="center">Desarrollador Java Jr | Backend</h3>
 
-### 💻 Java Backend Developer Jr
-
-Egresado de **Ingeniería en Sistemas Computacionales**, enfocado en desarrollo Backend con **Java y Spring Boot**.
-
-Actualmente sigo fortaleciendo mis conocimientos en APIs REST, seguridad, bases de datos, Docker, Git y arquitectura Backend.
+<p align="center">
+  <a href="LINK_PORTAFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tecnologías
+<table>
+<tr>
+<td width="65%">
 
-- Java 17
+## 👨‍💻 Sobre mí
+
+Soy **egresado de Ingeniería en Sistemas Computacionales**, orientado al desarrollo **Backend con Java y Spring Boot**.
+
+Actualmente sigo fortaleciendo mis conocimientos en:
+
+- APIs REST
 - Spring Boot
 - Spring Security
-- Spring Data JPA
-- APIs REST
 - JWT
-- Maven
+- Bases de datos relacionales
+- Git y GitHub
 - Docker
-- Git & GitHub
-- Postman
-- Swagger / OpenAPI
-- SQL Server
-- MySQL
-- Oracle Database
-- H2
-- PHP
-- HTML / CSS / JavaScript
+- Arquitectura Backend
+
+Me interesa desarrollarme como **Desarrollador Java Jr / Backend Jr**, aportando soluciones limpias, escalables y enfocadas en buenas prácticas.
+
+</td>
+<td width="35%" align="center">
+
+<img src="./TU_FOTO.jpg" alt="Foto de Luis García" width="220" style="border-radius: 12px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Tecnologías
 
-### 🔐 API REST con Java y Spring Boot
-Backend desarrollado con arquitectura por capas, seguridad con JWT, JPA, H2, cifrado AES, AOP, Swagger y Docker.
-
-👉 [Ver proyecto](https://github.com/LuisGarciaAbsalon/evaluacion-tecnica)
-
-### 🌐 DESSVI - Sitio Web Corporativo
-Sitio web desarrollado durante mis residencias profesionales con HTML, CSS, Bootstrap, JavaScript y PHP.
-
-👉 [Ver proyecto](https://github.com/LuisGarciaAbsalon/dessvi-web)
-
----
-
-## 📚 Actualmente aprendiendo
-
-- Microservicios
-- Seguridad de APIs
-- Docker
-- Git & GitHub
-- Backend empresarial
-- Spring Boot
+<p>
+  <img src="https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-REST-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Control%20de%20Versiones-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Contenedores-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Objetivo profesional
+## 💡 Fortalezas
 
-Busco una oportunidad como **Java Backend Developer Jr** donde pueda seguir desarrollando experiencia en sistemas empresariales, APIs REST y aplicaciones Backend.
+- Lógica de programación
+- Desarrollo Backend con Java
+- Consumo y creación de APIs REST
+- Trabajo con bases de datos relacionales
+- Resolución de problemas
+- Aprendizaje constante
+- Trabajo en equipo
+- Adaptabilidad
+
+---
+
+## 📜 Certificaciones
+
+- Scrum Fundamentals Certified (SFC)
 
 ---
 
 ## 📫 Contacto
 
-📧 Absalon15garcia@gmail.com
+- **Correo:** TU_CORREO
+- **LinkedIn:** TU_LINKEDIN
+- **GitHub:** https://github.com/LuisGarciaAbsalon
+- **Portafolio:** LINK_PORTAFOLIO
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 🚀
+</p>
