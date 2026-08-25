@@ -45,42 +45,34 @@
 ---
 
 <!-- ===================================================== -->
-<!--                     SOBRE MÍ                          -->
+<!--                FORMACIÓN ACADÉMICA                    -->
 <!-- ===================================================== -->
-
-<h2 align="center">👨‍💻 Sobre mí</h2>
-
-<p align="center">
-  Soy egresado de <b>Ingeniería en Sistemas Computacionales</b> con interés profesional
-  en el desarrollo <b>Backend con Java</b>.
-</p>
-
-<p align="center">
-  Actualmente continúo fortaleciendo mis conocimientos en
-  <b>Java, Spring Boot, APIs REST, Spring Security, JWT, bases de datos,
-  Docker y arquitectura Backend.</b>
-</p>
-
-<p align="center">
-  🎯 Mi objetivo es desarrollarme profesionalmente como
-  <b>Desarrollador Java Jr / Backend Jr</b> y participar en proyectos
-  empresariales donde pueda seguir aprendiendo y aportando soluciones.
-</p>
-
-<br>
----
 
 <h2 align="center">🎓 Formación académica</h2>
 
+<br>
+
+<h3 align="center">
+  Ingeniería en Sistemas Computacionales
+</h3>
+
 <p align="center">
-  <b>Ingeniería en Sistemas Computacionales</b><br>
-  Tecnológico de Estudios Superiores de Coacalco<br>
-  2021 – 2026
+  <b>Tecnológico de Estudios Superiores de Coacalco</b>
 </p>
 
 <p align="center">
-  Egresado | Título en proceso
+  <img src="https://img.shields.io/badge/Periodo-2021--2026-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Estado-Egresado-28A745?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Título-En%20proceso-FFC107?style=for-the-badge">
 </p>
+
+<p align="center">
+  Formación orientada al desarrollo de software, programación,
+  bases de datos, ingeniería de software y tecnologías de la información.
+</p>
+
+<br>
+
 ---
 
 <!-- ===================================================== -->
