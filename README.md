@@ -75,13 +75,23 @@
 
 ---
 
+
+
+<h3 align="center">Bases de datos</h3>
 <!-- ===================================================== -->
-<!--                   TECNOLOGÍAS                         -->
+<!--                   STACK TECNOLÓGICO                   -->
 <!-- ===================================================== -->
 
 <h2 align="center">⚙️ Stack Tecnológico</h2>
 
-<h3 align="center">Backend</h3>
+<p align="center">
+  Tecnologías y herramientas que utilizo para desarrollar,
+  probar y mantener aplicaciones Backend.
+</p>
+
+<br>
+
+<h3 align="center">☕ Backend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven" />
@@ -89,31 +99,39 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-Framework-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Security-Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Data-JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/APIs-REST-009688?style=flat-square">
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/APIs_REST-009688?style=flat-square">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+</p>
+
+<p align="center">
+  Desarrollo de APIs REST · Arquitectura por capas · Seguridad · Persistencia de datos
 </p>
 
 <br>
 
-<h3 align="center">Bases de datos</h3>
+<h3 align="center">🗄️ Bases de datos</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/H2-Database-09476B?style=flat-square">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/H2-09476B?style=flat-square">
+</p>
+
+<p align="center">
+  Modelado relacional · Consultas SQL · Persistencia con JPA
 </p>
 
 <br>
 
-<h3 align="center">Herramientas</h3>
+<h3 align="center">🛠️ Herramientas</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
@@ -122,10 +140,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-Control_de_versiones-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-Testing-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-Pruebas_API-FF6C37?style=flat-square&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-Contenedores-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+</p>
+
+<p align="center">
+  Control de versiones · Pruebas de endpoints · Documentación · Contenedores
 </p>
 
 <br>
