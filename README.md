@@ -81,7 +81,19 @@
 </p>
 
 <br>
+---
 
+<h2 align="center">🎓 Formación académica</h2>
+
+<p align="center">
+  <b>Ingeniería en Sistemas Computacionales</b><br>
+  Tecnológico de Estudios Superiores de Coacalco<br>
+  2021 – 2026
+</p>
+
+<p align="center">
+  Egresado | Título en proceso
+</p>
 ---
 
 <!-- ===================================================== -->
@@ -268,27 +280,3 @@
 
 <br>
 
----
-
-<!-- ===================================================== -->
-<!--                 ARQUITECTURA / ENFOQUE                -->
-<!-- ===================================================== -->
-
-<h2 align="center">🧩 Mi enfoque Backend</h2>
-
-<p align="center">
-
-```text
-Cliente
-   │
-   ▼
-Controller
-   │
-   ▼
-Service
-   │
-   ▼
-Repository
-   │
-   ▼
-Base de Datos
