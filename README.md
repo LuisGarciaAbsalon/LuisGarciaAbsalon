@@ -160,19 +160,26 @@
 <h2 align="center">🚀 Proyectos destacados</h2>
 
 <p align="center">
-  Proyectos donde he aplicado conocimientos de desarrollo Backend,
-  APIs REST, seguridad, bases de datos y desarrollo web.
+  Proyectos donde he aplicado desarrollo Backend, APIs REST,
+  seguridad, bases de datos y desarrollo web.
 </p>
 
 <br>
 
-<!-- ================= PROYECTO 1 ================= -->
+<!-- ===================================================== -->
+<!--                    PROYECTO 1                         -->
+<!-- ===================================================== -->
 
-<h3>🔐 API REST Segura | Java & Spring Boot</h3>
+<h3 align="center">🔐 API REST Segura</h3>
 
-> Backend desarrollado con Java 17 y Spring Boot aplicando arquitectura por capas, seguridad con JWT, persistencia de datos e integración con servicios externos.
+<h4 align="center">Java 17 & Spring Boot</h4>
 
-<p>
+<p align="center">
+  Backend REST desarrollado aplicando arquitectura por capas,
+  seguridad, persistencia de datos e integración con servicios externos.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
@@ -181,25 +188,41 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
-### ✨ Características
+<p align="center">
+  <b>Arquitectura por capas · Seguridad JWT · JPA · API externa · Docker</b>
+</p>
 
-- Arquitectura **Controller → Service → Repository**
-- Desarrollo de endpoints REST
-- Persistencia mediante **Spring Data JPA**
-- Base de datos H2
-- Seguridad mediante **Spring Security**
-- Autenticación utilizando **JWT**
+<details>
+<summary><b>🔎 Ver detalles del proyecto</b></summary>
+
+<br>
+
+**🎯 Qué desarrollé**
+
+- API REST utilizando Java 17 y Spring Boot
+- Arquitectura Controller → Service → Repository
+- Persistencia mediante Spring Data JPA
+- Seguridad con Spring Security
+- Autenticación mediante JWT
 - OAuth2 Resource Server
-- Integración con API externa **PokeAPI**
-- Cifrado mediante **AES/CBC**
-- Bitácora automática utilizando **AOP**
-- Documentación con **Swagger / OpenAPI**
-- Pruebas de endpoints mediante **Postman**
-- Configuración para ejecución con **Docker**
+- Integración con PokeAPI
+- Cifrado AES/CBC
+- Bitácora automática mediante AOP
+- Documentación con Swagger / OpenAPI
+- Pruebas mediante Postman
+- Configuración para Docker
+
+**🧠 Qué demuestra este proyecto**
+
+Comprensión del flujo completo de una aplicación Backend, desde la recepción de una petición HTTP hasta el acceso a datos, incluyendo seguridad, documentación e integración con servicios externos.
+
+</details>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/LuisGarciaAbsalon/evaluacion-tecnica">
-    <img src="https://img.shields.io/badge/VER_PROYECTO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -207,13 +230,20 @@
 
 ---
 
-<!-- ================= PROYECTO 2 ================= -->
+<!-- ===================================================== -->
+<!--                    PROYECTO 2                         -->
+<!-- ===================================================== -->
 
-<h3>🌐 DESSVI | Sitio Web Corporativo</h3>
+<h3 align="center">🌐 DESSVI</h3>
 
-> Sitio web desarrollado durante mis residencias profesionales para presentar información institucional, servicios, clientes y medios de contacto de una empresa.
+<h4 align="center">Sitio Web Corporativo</h4>
 
-<p>
+<p align="center">
+  Proyecto desarrollado durante mis residencias profesionales
+  para presentar información institucional, servicios y medios de contacto.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
@@ -221,26 +251,43 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 </p>
 
-### ✨ Características
+<p align="center">
+  <b>Responsive Design · Frontend · Formularios · PHP · Proyecto real</b>
+</p>
 
-- Diseño responsivo
+<details>
+<summary><b>🔎 Ver detalles del proyecto</b></summary>
+
+<br>
+
+**🎯 Qué desarrollé**
+
+- Sitio web responsivo
 - Información institucional
 - Presentación de servicios
 - Sección de clientes
 - Acreditaciones
 - Formulario de contacto
 - Validación de información
-- Integración con PHP
+- Integración mediante PHP
 - Adaptación del proyecto para portafolio público
+
+**🧠 Qué demuestra este proyecto**
+
+Experiencia participando en un proyecto desarrollado dentro de un entorno profesional y capacidad para adaptar una solución real para su presentación pública como portafolio.
+
+</details>
+
+<br>
 
 <p align="center">
 
   <a href="https://github.com/LuisGarciaAbsalon/dessvi-web">
-    <img src="https://img.shields.io/badge/VER_CÓDIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="https://luisgarciaabsalon.github.io/dessvi-web/">
-    <img src="https://img.shields.io/badge/VER_SITIO-Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img src="https://img.shields.io/badge/VER_SITIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
 </p>
@@ -249,34 +296,69 @@
 
 ---
 
-<!-- ================= PROYECTO 3 ================= -->
+<!-- ===================================================== -->
+<!--                    PROYECTO 3                         -->
+<!-- ===================================================== -->
 
-<h3>🍣 Sistema de Gestión para Restaurante</h3>
+<h3 align="center">🍣 Sistema de Gestión para Restaurante</h3>
 
-> Aplicación Backend orientada a digitalizar procesos operativos de un restaurante que actualmente se realizan de forma manual.
+<p align="center">
+  <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-FFC107?style=for-the-badge">
+</p>
 
-<p>
+<p align="center">
+  Aplicación Backend orientada a digitalizar procesos operativos
+  que actualmente se realizan de forma manual en un restaurante.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/API-REST-009688?style=flat-square">
-  <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-FFC107?style=flat-square">
 </p>
 
-### 🎯 Funcionalidades planeadas
+<p align="center">
+  <b>Clientes · Productos · Pedidos · Comandas · Ventas · SQL Server</b>
+</p>
+
+<details>
+<summary><b>🛠️ Ver alcance del proyecto</b></summary>
+
+<br>
+
+**🎯 Objetivo**
+
+Digitalizar el flujo de pedidos del restaurante mediante una aplicación Backend desarrollada con Java y Spring Boot.
+
+**📌 Funcionalidades**
 
 - Gestión de clientes
 - Gestión de productos
 - Registro de pedidos
 - Control de ventas
 - Persistencia de información
-- Envío de comandas
-- Control de cuenta
+- Generación y envío de comandas
+- Cálculo de cuenta
 - Arquitectura por capas
 
+**🚧 Estado**
+
+Proyecto actualmente en desarrollo y utilizado para continuar fortaleciendo conocimientos de Java Backend, Spring Boot y SQL Server.
+
+</details>
+
+<br>
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🚧_PROYECTO_EN_DESARROLLO-FFC107?style=for-the-badge">
+  <i>
+    Cada proyecto representa una oportunidad para aplicar,
+    entender y mejorar mis conocimientos de desarrollo de software.
+  </i>
 </p>
 
 <br>
 
+---
