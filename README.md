@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./foto-perfil.jpg" alt="Luis García Absalon | Java Backend Developer" width="100%">
+  <img src="./foto-perfil.jpg" alt="Foto de Luis García" width="150">
 </p>
 
 <h1 align="center">Hola 👋, soy Luis García</h1>
