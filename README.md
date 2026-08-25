@@ -1,50 +1,36 @@
 <!-- ===================================================== -->
-<!--               PRESENTACIÓN ANIMADA                    -->
+<!--                    PRESENTACIÓN                        -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A66C2,100:6DB33F&height=90&section=header"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img src="./foto-perfil.jpg" alt="Foto de Luis García" width="135">
-</p>
-
-<h2 align="center">
-  👋 Hola, soy Luis García
-</h2>
+<h1 align="center">👋 Hola, soy Luis García</h1>
 
 <h3 align="center">
   Desarrollador Java Jr | Backend
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=☕+Java+17+%2B+Spring+Boot;🚀+Construyendo+APIs+REST;🔐+Spring+Security+%2B+JWT;🗄️+SQL+%2B+JPA;🐳+Docker+%2B+Git+%2B+GitHub"
-    alt="Typing animation"
-  />
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/APIs-REST-009688?style=flat-square">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Egresado-Ingeniería_en_Sistemas-0A66C2?style=flat-square">
-  <img src="https://img.shields.io/badge/💼_Buscando-Oportunidad_Java_Jr-28A745?style=flat-square">
-  <img src="https://img.shields.io/badge/📍_México-Backend_Developer-6DB33F?style=flat-square">
+  🎓 <b>Egresado de Ingeniería en Sistemas Computacionales</b>
 </p>
 
-<br>
-
 <p align="center">
-  Enfocado en el desarrollo <b>Backend con Java y Spring Boot</b>,
+  Enfocado en desarrollo <b>Backend con Java y Spring Boot</b>,
   creación de APIs REST, seguridad y bases de datos relacionales.
 </p>
 
 <p align="center">
-  🚀 Aprendiendo, construyendo y mejorando continuamente.
+  🚀 Actualmente fortaleciendo mis conocimientos en arquitectura Backend,
+  buenas prácticas y desarrollo de soluciones escalables.
 </p>
 
 <br>
@@ -67,12 +53,7 @@
 
 <br>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&section=footer"
-    width="100%"
-  />
-</p>
+---
 
 
 
