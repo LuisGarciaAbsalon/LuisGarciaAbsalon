@@ -1,23 +1,33 @@
 <h1 align="center">Hola, soy Luis García 👋</h1>
+
 <h3 align="center">Desarrollador Java Jr | Backend</h3>
 
 <p align="center">
-  <a href="LINK_PORTAFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+APIs+REST;Spring+Security+%7C+JWT;SQL+%7C+Docker+%7C+Git"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="./foto-perfil.jpg" alt="Foto de Luis García" width="180" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LuisGarciaAbsalon" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/luis-garcia-absalon-147a98374" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO">
+
+  <a href="mailto:absalon15garcia@gmail.com">
     <img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<table>
-<tr>
-<td width="65%">
 
 ## 👨‍💻 Sobre mí
 
@@ -34,16 +44,19 @@ Actualmente sigo fortaleciendo mis conocimientos en:
 - Docker
 - Arquitectura Backend
 
-Me interesa desarrollarme como **Desarrollador Java Jr / Backend Jr**, aportando soluciones limpias, escalables y enfocadas en buenas prácticas.
+Me interesa desarrollarme como **Desarrollador Java Jr | Backend**, aportando soluciones limpias, escalables y enfocadas en buenas prácticas.
 
-</td>
-<td width="35%" align="center">
+---
 
-<img src="./foto-perfil.jpg" alt="Foto de Luis García" width="220">
+## 🛠️ Tecnologías
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,postman,maven" />
+</p>
+
+<p align="center">
+  Java 17 · Spring Boot · Spring Security · Spring Data JPA · APIs REST · JWT · SQL Server · MySQL · Docker · Git/GitHub · Postman · Maven
+</p>
 
 ---
 
@@ -158,7 +171,7 @@ Me interesa desarrollarme como **Desarrollador Java Jr / Backend Jr**, aportando
 </p>
 
 <p align="center">
-Gestión de clientes · productos · pedidos · ventas · inventario · persistencia de datos · arquitectura Backend
+  Gestión de clientes · productos · pedidos · ventas · inventario · persistencia de datos · arquitectura Backend
 </p>
 
 </td>
@@ -166,37 +179,14 @@ Gestión de clientes · productos · pedidos · ventas · inventario · persiste
 </table>
 
 ---
----
-
-## 🚀 Tecnologías
-
-<p>
-  <img src="https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs-REST-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Control%20de%20Versiones-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Contenedores-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
 
 ## 💡 Fortalezas
 
-- Lógica de programación
-- Desarrollo Backend con Java
-- Consumo y creación de APIs REST
-- Trabajo con bases de datos relacionales
 - Resolución de problemas
-- Aprendizaje constante
+- Aprendizaje continuo
 - Trabajo en equipo
-- Adaptabilidad
+- Comunicación efectiva
+- Organización y gestión del tiempo
 
 ---
 
@@ -206,15 +196,31 @@ Gestión de clientes · productos · pedidos · ventas · inventario · persiste
 
 ---
 
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LuisGarciaAbsalon&show_icons=true&hide_border=true&theme=github_dark"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGarciaAbsalon&layout=compact&hide_border=true&theme=github_dark"
+    height="165"
+  />
+</p>
+
+---
+
 ## 📫 Contacto
 
-- **Correo:** absalon15garcia@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/luis-garcia-absalon-147a98374?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Correo:** absalon15garcia@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/luis-garcia-absalon-147a98374
 - **GitHub:** https://github.com/LuisGarciaAbsalon
-- **Portafolio:** LINK_PORTAFOLIO
+- **Portafolio:** https://github.com/LuisGarciaAbsalon
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 🚀
+  <i>Siempre aprendiendo, construyendo y mejorando. 🚀</i>
 </p>
