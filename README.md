@@ -1,16 +1,6 @@
-<!-- ===================================================== -->
-<!--                 BANNER PRINCIPAL                      -->
-<!-- ===================================================== -->
-
 <p align="center">
   <img src="./banner-github.png" alt="Luis García Absalon | Java Backend Developer" width="100%">
 </p>
-
-<br>
-
-<!-- ===================================================== -->
-<!--                  PRESENTACIÓN                         -->
-<!-- ===================================================== -->
 
 <h1 align="center">Hola 👋, soy Luis García</h1>
 
@@ -20,37 +10,34 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+APIs+REST;Spring+Security+%7C+JWT;SQL+%7C+Docker+%7C+Git"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+APIs+REST;Spring+Security+%7C+JWT;SQL+%7C+Docker+%7C+Git"
+    alt="Tecnologías Backend"
   />
 </p>
 
 <p align="center">
-  Egresado de <b>Ingeniería en Sistemas Computacionales</b>,
-  enfocado en desarrollo Backend con <b>Java y Spring Boot</b>.
+  Egresado de <b>Ingeniería en Sistemas Computacionales</b><br>
+  enfocado en desarrollo <b>Backend con Java y Spring Boot</b>.
 </p>
 
 <p align="center">
-  Construyendo APIs REST, trabajando con seguridad, bases de datos
-  y buenas prácticas de desarrollo Backend.
+  Desarrollo APIs REST, trabajo con bases de datos relacionales
+  y continúo fortaleciendo mis conocimientos en arquitectura Backend,
+  seguridad y buenas prácticas de desarrollo.
 </p>
 
-<br>
-
 <p align="center">
-
   <a href="https://www.linkedin.com/in/luis-garcia-absalon-147a98374">
-    <img src="https://img.shields.io/badge/LinkedIn-Ver%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:absalon15garcia@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Correo-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://github.com/LuisGarciaAbsalon">
-    <img src="https://img.shields.io/badge/Portafolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Proyectos-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
 </p>
 
 <br>
