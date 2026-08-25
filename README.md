@@ -1,6 +1,22 @@
-<h1 align="center">Hola, soy Luis García 👋</h1>
+<!-- ===================================================== -->
+<!--                 BANNER PRINCIPAL                      -->
+<!-- ===================================================== -->
 
-<h3 align="center">Desarrollador Java Jr | Backend</h3>
+<p align="center">
+  <img src="./banner-github.png" alt="Luis García Absalon | Java Backend Developer" width="100%">
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                  PRESENTACIÓN                         -->
+<!-- ===================================================== -->
+
+<h1 align="center">Hola 👋, soy Luis García</h1>
+
+<h3 align="center">
+  Desarrollador Java Jr | Backend
+</h3>
 
 <p align="center">
   <img
@@ -10,113 +26,182 @@
 </p>
 
 <p align="center">
-  <img src="./foto-perfil.jpg" alt="Foto de Luis García" width="180" />
+  Egresado de <b>Ingeniería en Sistemas Computacionales</b>,
+  enfocado en desarrollo Backend con <b>Java y Spring Boot</b>.
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisGarciaAbsalon" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/luis-garcia-absalon-147a98374" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:absalon15garcia@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy **egresado de Ingeniería en Sistemas Computacionales**, orientado al desarrollo **Backend con Java y Spring Boot**.
-
-Actualmente sigo fortaleciendo mis conocimientos en:
-
-- APIs REST
-- Spring Boot
-- Spring Security
-- JWT
-- Bases de datos relacionales
-- Git y GitHub
-- Docker
-- Arquitectura Backend
-
-Me interesa desarrollarme como **Desarrollador Java Jr | Backend**, aportando soluciones limpias, escalables y enfocadas en buenas prácticas.
-
----
-
-## 🛠️ Tecnologías
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,postman,maven" />
-</p>
-
-<p align="center">
-  Java 17 · Spring Boot · Spring Security · Spring Data JPA · APIs REST · JWT · SQL Server · MySQL · Docker · Git/GitHub · Postman · Maven
-</p>
-
----
-
-<h2 align="center">🚀 Proyectos destacados</h2>
-
-<p align="center">
-  Proyectos con los que he puesto en práctica desarrollo Backend, APIs REST,
-  seguridad, bases de datos y desarrollo web.
+  Construyendo APIs REST, trabajando con seguridad, bases de datos
+  y buenas prácticas de desarrollo Backend.
 </p>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
 
-<h3 align="center">🔐 API REST | Java & Spring Boot</h3>
+  <a href="https://www.linkedin.com/in/luis-garcia-absalon-147a98374">
+    <img src="https://img.shields.io/badge/LinkedIn-Ver%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:absalon15garcia@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://github.com/LuisGarciaAbsalon">
+    <img src="https://img.shields.io/badge/Portafolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+</p>
+
+<br>
+
+---
+
+<!-- ===================================================== -->
+<!--                     SOBRE MÍ                          -->
+<!-- ===================================================== -->
+
+<h2 align="center">👨‍💻 Sobre mí</h2>
 
 <p align="center">
-  Backend REST desarrollado con arquitectura por capas y seguridad mediante JWT.
+  Soy egresado de <b>Ingeniería en Sistemas Computacionales</b> con interés profesional
+  en el desarrollo <b>Backend con Java</b>.
+</p>
+
+<p align="center">
+  Actualmente continúo fortaleciendo mis conocimientos en
+  <b>Java, Spring Boot, APIs REST, Spring Security, JWT, bases de datos,
+  Docker y arquitectura Backend.</b>
+</p>
+
+<p align="center">
+  🎯 Mi objetivo es desarrollarme profesionalmente como
+  <b>Desarrollador Java Jr / Backend Jr</b> y participar en proyectos
+  empresariales donde pueda seguir aprendiendo y aportando soluciones.
+</p>
+
+<br>
+
+---
+
+<!-- ===================================================== -->
+<!--                   TECNOLOGÍAS                         -->
+<!-- ===================================================== -->
+
+<h2 align="center">⚙️ Stack Tecnológico</h2>
+
+<h3 align="center">Backend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-Framework-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Data-JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/APIs-REST-009688?style=flat-square">
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+</p>
+
+<br>
+
+<h3 align="center">Bases de datos</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/H2-Database-09476B?style=flat-square">
+</p>
+
+<br>
+
+<h3 align="center">Herramientas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Control_de_versiones-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-Testing-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-Contenedores-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+</p>
+
+<br>
+
+---
+
+<!-- ===================================================== -->
+<!--                 PROYECTOS DESTACADOS                  -->
+<!-- ===================================================== -->
+
+<h2 align="center">🚀 Proyectos destacados</h2>
+
+<p align="center">
+  Proyectos donde he aplicado conocimientos de desarrollo Backend,
+  APIs REST, seguridad, bases de datos y desarrollo web.
+</p>
+
+<br>
+
+<!-- ================= PROYECTO 1 ================= -->
+
+<h3>🔐 API REST Segura | Java & Spring Boot</h3>
+
+> Backend desarrollado con Java 17 y Spring Boot aplicando arquitectura por capas, seguridad con JWT, persistencia de datos e integración con servicios externos.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
-**Características**
+### ✨ Características
 
-- Arquitectura Controller → Service → Repository
-- Spring Data JPA + H2
-- Seguridad con Spring Security y JWT
+- Arquitectura **Controller → Service → Repository**
+- Desarrollo de endpoints REST
+- Persistencia mediante **Spring Data JPA**
+- Base de datos H2
+- Seguridad mediante **Spring Security**
+- Autenticación utilizando **JWT**
 - OAuth2 Resource Server
-- Integración con PokeAPI
-- Cifrado AES/CBC
-- Bitácora mediante AOP
-- Swagger / OpenAPI
-- Pruebas con Postman
-- Docker
+- Integración con API externa **PokeAPI**
+- Cifrado mediante **AES/CBC**
+- Bitácora automática utilizando **AOP**
+- Documentación con **Swagger / OpenAPI**
+- Pruebas de endpoints mediante **Postman**
+- Configuración para ejecución con **Docker**
 
 <p align="center">
   <a href="https://github.com/LuisGarciaAbsalon/evaluacion-tecnica">
-    <img src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/VER_PROYECTO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+---
 
-<h3 align="center">🌐 DESSVI | Sitio Web Corporativo</h3>
+<!-- ================= PROYECTO 2 ================= -->
 
-<p align="center">
-  Sitio web desarrollado durante mis residencias profesionales para una empresa de control de calidad.
-</p>
+<h3>🌐 DESSVI | Sitio Web Corporativo</h3>
 
-<p align="center">
+> Sitio web desarrollado durante mis residencias profesionales para presentar información institucional, servicios, clientes y medios de contacto de una empresa.
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
@@ -124,7 +209,7 @@ Me interesa desarrollarme como **Desarrollador Java Jr | Backend**, aportando so
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 </p>
 
-**Características**
+### ✨ Características
 
 - Diseño responsivo
 - Información institucional
@@ -132,95 +217,78 @@ Me interesa desarrollarme como **Desarrollador Java Jr | Backend**, aportando so
 - Sección de clientes
 - Acreditaciones
 - Formulario de contacto
-- Validación de datos
-- Integración PHP
-- Adaptación para portafolio público
+- Validación de información
+- Integración con PHP
+- Adaptación del proyecto para portafolio público
 
 <p align="center">
+
   <a href="https://github.com/LuisGarciaAbsalon/dessvi-web">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/VER_CÓDIGO-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="https://luisgarciaabsalon.github.io/dessvi-web/">
-    <img src="https://img.shields.io/badge/VER_SITIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img src="https://img.shields.io/badge/VER_SITIO-Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-</p>
 
-</td>
-</tr>
-</table>
+</p>
 
 <br>
 
-<table>
-<tr>
-<td width="100%" valign="top">
+---
 
-<h3 align="center">🍣 Sistema de Gestión para Restaurante</h3>
+<!-- ================= PROYECTO 3 ================= -->
 
-<p align="center">
-  Aplicación Backend orientada a digitalizar operaciones de un restaurante.
-</p>
+<h3>🍣 Sistema de Gestión para Restaurante</h3>
 
-<p align="center">
+> Aplicación Backend orientada a digitalizar procesos operativos de un restaurante que actualmente se realizan de forma manual.
+
+<p>
   <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square">
-  <img src="https://img.shields.io/badge/EN_DESARROLLO-FFC107?style=flat-square">
+  <img src="https://img.shields.io/badge/API-REST-009688?style=flat-square">
+  <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-FFC107?style=flat-square">
 </p>
+
+### 🎯 Funcionalidades planeadas
+
+- Gestión de clientes
+- Gestión de productos
+- Registro de pedidos
+- Control de ventas
+- Persistencia de información
+- Envío de comandas
+- Control de cuenta
+- Arquitectura por capas
 
 <p align="center">
-  Gestión de clientes · productos · pedidos · ventas · inventario · persistencia de datos · arquitectura Backend
+  <img src="https://img.shields.io/badge/🚧_PROYECTO_EN_DESARROLLO-FFC107?style=for-the-badge">
 </p>
 
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-## 💡 Fortalezas
+<!-- ===================================================== -->
+<!--                 ARQUITECTURA / ENFOQUE                -->
+<!-- ===================================================== -->
 
-- Resolución de problemas
-- Aprendizaje continuo
-- Trabajo en equipo
-- Comunicación efectiva
-- Organización y gestión del tiempo
-
----
-
-## 📜 Certificaciones
-
-- Scrum Fundamentals Certified (SFC)
-
----
-
-## 📊 GitHub
+<h2 align="center">🧩 Mi enfoque Backend</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LuisGarciaAbsalon&show_icons=true&hide_border=true&theme=github_dark"
-    height="165"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGarciaAbsalon&layout=compact&hide_border=true&theme=github_dark"
-    height="165"
-  />
-</p>
-
----
-
-## 📫 Contacto
-
-- **Correo:** absalon15garcia@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/luis-garcia-absalon-147a98374
-- **GitHub:** https://github.com/LuisGarciaAbsalon
-- **Portafolio:** https://github.com/LuisGarciaAbsalon
-
----
-
-<p align="center">
-  <i>Siempre aprendiendo, construyendo y mejorando. 🚀</i>
-</p>
+```text
+Cliente
+   │
+   ▼
+Controller
+   │
+   ▼
+Service
+   │
+   ▼
+Repository
+   │
+   ▼
+Base de Datos
