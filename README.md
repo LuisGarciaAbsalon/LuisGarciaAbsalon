@@ -1,40 +1,50 @@
 <!-- ===================================================== -->
-<!--                    PRESENTACIÓN                        -->
+<!--               PRESENTACIÓN ANIMADA                    -->
 <!-- ===================================================== -->
-
-<br>
-
-<p align="center">
-  <img src="./foto-perfil.jpg" alt="Foto de Luis García" width="145">
-</p>
-
-<h2 align="center">👋 Hola, soy Luis García</h2>
-
-<p align="center">
-  <b>Desarrollador Java Jr | Backend</b>
-</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=550&lines=Java+%2B+Spring+Boot;APIs+REST+%2B+Spring+Security+%2B+JWT;SQL+%2B+Docker+%2B+Git"
-    alt="Tecnologías Backend"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A66C2,100:6DB33F&height=90&section=header"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img src="./foto-perfil.jpg" alt="Foto de Luis García" width="135">
+</p>
+
+<h2 align="center">
+  👋 Hola, soy Luis García
+</h2>
+
+<h3 align="center">
+  Desarrollador Java Jr | Backend
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=☕+Java+17+%2B+Spring+Boot;🚀+Construyendo+APIs+REST;🔐+Spring+Security+%2B+JWT;🗄️+SQL+%2B+JPA;🐳+Docker+%2B+Git+%2B+GitHub"
+    alt="Typing animation"
   />
 </p>
 
 <br>
 
 <p align="center">
-  🎓 <b>Egresado de Ingeniería en Sistemas Computacionales</b>
+  <img src="https://img.shields.io/badge/🎓_Egresado-Ingeniería_en_Sistemas-0A66C2?style=flat-square">
+  <img src="https://img.shields.io/badge/💼_Buscando-Oportunidad_Java_Jr-28A745?style=flat-square">
+  <img src="https://img.shields.io/badge/📍_México-Backend_Developer-6DB33F?style=flat-square">
+</p>
+
+<br>
+
+<p align="center">
+  Enfocado en el desarrollo <b>Backend con Java y Spring Boot</b>,
+  creación de APIs REST, seguridad y bases de datos relacionales.
 </p>
 
 <p align="center">
-  💻 Enfocado en desarrollo <b>Backend con Java y Spring Boot</b>,
-  construcción de APIs REST, seguridad y bases de datos relacionales.
-</p>
-
-<p align="center">
-  🚀 Continuamente fortaleciendo mis conocimientos en arquitectura Backend,
-  buenas prácticas y desarrollo de soluciones escalables.
+  🚀 Aprendiendo, construyendo y mejorando continuamente.
 </p>
 
 <br>
@@ -57,7 +67,12 @@
 
 <br>
 
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&section=footer"
+    width="100%"
+  />
+</p>
 
 
 
