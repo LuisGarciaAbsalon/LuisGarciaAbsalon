@@ -1,60 +1,48 @@
-<!-- ===================================================== -->
-<!--                    PRESENTACIÓN                        -->
-<!-- ===================================================== -->
-
 <h1 align="center">👋 Hola, soy Luis García</h1>
 
-<h3 align="center">
-  Desarrollador Java Jr | Backend
-</h3>
+<h3 align="center">Desarrollador Java Jr | Backend</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/APIs-REST-009688?style=flat-square">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-</p>
-
-<br>
-
-<p align="center">
-  🎓 <b>Egresado de Ingeniería en Sistemas Computacionales</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Spring+Boot;MySQL;Docker;APIs+REST;Spring+Security;Git+y+GitHub;Java+Backend+Developer" alt="Animación de tecnologías" />
 </p>
 
 <p align="center">
-  Enfocado en desarrollo <b>Backend con Java y Spring Boot</b>,
-  creación de APIs REST, seguridad y bases de datos relacionales.
+  🎓 Egresado de Ingeniería en Sistemas Computacionales <br>
+  🚀 Enfocado en desarrollo Backend con Java y Spring Boot
 </p>
 
 <p align="center">
-  🚀 Actualmente fortaleciendo mis conocimientos en arquitectura Backend,
-  buenas prácticas y desarrollo de soluciones escalables.
-</p>
-
-<br>
-
-<p align="center">
-
   <a href="https://www.linkedin.com/in/luis-garcia-absalon-147a98374">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
   <a href="mailto:absalon15garcia@gmail.com">
     <img src="https://img.shields.io/badge/Correo-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
   <a href="https://github.com/LuisGarciaAbsalon">
     <img src="https://img.shields.io/badge/GitHub-Proyectos-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
 </p>
-
-<br>
 
 ---
 
+## 🎓 Formación académica
+
+<p align="center">
+  <b>Ingeniería en Sistemas Computacionales</b><br>
+  Tecnológico de Estudios Superiores de Coacalco
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Periodo-2021--2026-2F80ED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Estado-Egresado-27AE60?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Título-En%20proceso-F2C94C?style=for-the-badge">
+</p>
+
+<p align="center">
+  Formación orientada al desarrollo de software, programación, bases de datos, ingeniería de software y tecnologías de la información.
+</p>
+
+---
 
 
 <!-- ===================================================== -->
