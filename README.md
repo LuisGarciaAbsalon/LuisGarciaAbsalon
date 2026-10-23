@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Luis García</h1>
 
-<h3 align="center">Desarrollador Java Jr | Backend</h3>
+<h3 align="center">Desarrollador Jr </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Spring+Boot;MySQL;Docker;APIs+REST;Spring+Security;Git+y+GitHub;Java+Backend+Developer" alt="Animación de tecnologías" />
